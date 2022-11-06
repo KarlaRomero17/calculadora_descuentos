@@ -1,0 +1,11 @@
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.csprojAssemblyReference.cache
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.Form1.resources
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.Properties.Resources.resources
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.csproj.GenerateResource.cache
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.csproj.CoreCompileInputs.cache
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\bin\Debug\calculadora_descuentos.exe.config
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\bin\Debug\calculadora_descuentos.exe
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\bin\Debug\calculadora_descuentos.pdb
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.exe
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.pdb
+C:\Users\ITCA\Source\Repos\calculadora_descuentos\calculadora_descuentos\obj\Debug\calculadora_descuentos.Form2.resources
